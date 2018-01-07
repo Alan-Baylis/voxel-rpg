@@ -45,6 +45,13 @@ ModelImporter:
     100074: grassblades
     100076: wind_pole
     100078: windbone
+    100080: grassblades_001
+    100082: Cube
+    100084: arm_grassblade1
+    100086: arm_grassblade2
+    100088: grassblades_000
+    100090: wind_pole_0
+    100092: windbone_0
     400000: Armature
     400002: Bone
     400004: Bone_001
@@ -85,12 +92,28 @@ ModelImporter:
     400074: grassblades
     400076: wind_pole
     400078: windbone
+    400080: grassblades_001
+    400082: Cube
+    400084: arm_grassblade1
+    400086: arm_grassblade2
+    400088: grassblades_000
+    400090: wind_pole_0
+    400092: windbone_0
     2100000: unnamed
+    2100002: palette__grassblades_png
+    2100004: palette_001__grassblades_png_001
+    2300000: Cube
+    3300000: Cube
     4300000: grassblades
+    4300002: grassblades_001
+    4300004: Cube
+    4300006: grassblades_000
     7400000: Default Take
     7400002: SwayingGrass
     9500000: //RootNode
     13700000: grassblades
+    13700002: grassblades_001
+    13700004: grassblades_000
   externalObjects:
   - first:
       type: UnityEngine:Material
